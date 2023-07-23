@@ -34,4 +34,4 @@ y cronómetro_PyQt5, respectivamente. Además creé un ejecutable .exe para corr
 <br/>
 
 
-### Gerardo Huerta: [Linkedin]() | [GitHub](https://github.com/Gerardo-Huerta-Esc) 
+### Gerardo Huerta: [Linkedin](https://www.linkedin.com/in/j-gerardo-huerta-escobar-b6516124b/) | [GitHub](https://github.com/Gerardo-Huerta-Esc) 
