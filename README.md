@@ -2,7 +2,7 @@
 <h1 align = "center"> Cronómetro personalizado  </h1>
 
 
-![Imagen no encontrada](src/logo.png)
+![Imagen no encontrada](image/imagen.jpeg)
 
 
 
@@ -10,7 +10,7 @@
 un cronómetro en donde se puedira configurar la hora de inicio.  Todo fue realizado con la librería de Tkinter, también existe una version en PyQt5, de nombres cronometro_Tkinter.py,
 y cronómetro_PyQt5, respectivamente. Además creé un ejecutable .exe para correr la aplicación de Tkinder desde el escritorio de mi PC; cualquiera puede descargarlo e instalarlo.
   
-Instrucciones:
+### Instrucciones:
 
 * Descarga el .exe
 *  Abre la carpeta donde se descargó y ejecutalo.
@@ -18,7 +18,7 @@ Instrucciones:
 *  Valida la hora inicializada con el botón "Validar"
 *  Oprime Start para comenzar. 
 
-Nota: Continuaré este proyecto en el futuro. Añadiré una pestaña en donde se guarde el tiempo cronometrado por día. También haré una MovileAPP que se concte con la de escritorio.
+### Nota: Continuaré este proyecto en el futuro. Añadiré una pestaña en donde se guarde el tiempo cronometrado por día. También haré una MovileAPP que se concte con la de escritorio.
 </p>
 
 <br/>
