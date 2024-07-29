@@ -7,8 +7,8 @@
 
 
 <p align = "center"> Al tener la necesidad de cronometrar muchas horas de trabajo, me vi en la necesidad de crear un cronómetro configurable, ya que no encontré en ninguna parte
-un cronómetro en donde se puedira configurar la hora de inicio.  Todo fue realizado con la librería de Tkinter, también existe una version en PyQt5, de nombres cronometro_Tkinter.py,
-y cronómetro_PyQt5, respectivamente. Además creé un ejecutable .exe para correr la aplicación de Tkinder desde el escritorio de mi PC; cualquiera puede descargarlo e instalarlo.
+un cronómetro en donde se puedira configurar la hora de inicio.  Todo fue realizado con la librería PyQt6. Además creé un ejecutable .exe para correr la aplicación, el archivo es cronometro_PyQt6.ese, el cual
+crea una App Desktop. Cualquiera puede descargarlo e instalarlo.
   
 ### Instrucciones:
 
