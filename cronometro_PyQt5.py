@@ -10,13 +10,13 @@ class Cronometro(QMainWindow):
         self.initUI()
 
     def initUI(self):
-        self.setWindowTitle("Cronómetro")
-        self.setGeometry(200, 200, 300, 150)
+        self.setWindowTitle("Cronómetro") #nombre de la ventana
+        self.setGeometry(200, 400, 300, 150) # lugar geométrico en donde aparece la ventana al abrirse
 
-        self.milisegundos = QLineEdit(self)
-        self.milisegundos.setAlignment(Qt.AlignRight)
-        self.milisegundos.setReadOnly(True)
-        self.milisegundos.setStyleSheet("font-size: 24px; background-color: black; color: #03f943;")
+        self.milisegundos = QLineEdit(self) # caja de texto. El self indica que el widget es parte de la ventana principal de la aplicación.
+        self.milisegundos.setAlignment(Qt.AlignRight) #Establece la alineación de los números hacia la derecha.
+        self.milisegundos.setReadOnly(True) # Hace que la caja de texto sea de solo lectura
+        self.milisegundos.setStyleSheet("font-size: 24px; background-color: black; color: #03f943;") #Aplica un estilo personalizado a la caja de texto usando CSS
 
         self.pantalla_hora = QLineEdit(self)
 
@@ -41,6 +41,8 @@ class Cronometro(QMainWindow):
         self.tiempo_inicial = None
         self.tiempo_pausado = 0
         self.cronometro_activo = False
+
+        
 
     def start_cronometro(self):
         if not self.cronometro_activo:
